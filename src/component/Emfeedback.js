@@ -15,7 +15,7 @@ export class Container extends Component{
                 
             </div>
              <div>
-             <button className="btn1" onClick={()=>this.props.goback()} className="btn">Go back</button> 
+             <button className="btn1" onClick={()=>this.props.goback()}>Go back</button> 
             </div>
             </div>
         );
